@@ -1,0 +1,8 @@
+.botao{
+    color: white;
+    background-color: blue;
+}
+
+.botao:hover{
+    background-color: gray;
+}
